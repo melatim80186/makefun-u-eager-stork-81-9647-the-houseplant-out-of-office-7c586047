@@ -1,8 +1,8 @@
 # The Houseplant Out-of-Office — make.fun entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Entry: 88 chars](https://img.shields.io/badge/entry-88_chars-brightgreen)](main.py)
+[![make.fun · u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/melatim80186/makefun-u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/melatim80186/makefun-u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047)
 
 $2, winner takes all. Deadline **2026-11-26 21:15 WIB**.
 
@@ -38,6 +38,21 @@ driving the joke, tightness, originality):
 
 Full candidate list and round scores: `REVIEW.md` in the work dir
 (not part of this repo).
+
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the houseplant stands.
+
+## How it was chosen
+
+Thirteen candidates were drafted and scored over three review rounds
+against the published judge brief — plant OOO voice first, then fresh
+surprise, plant life driving the joke, tightness, originality. The
+winner scored top: the plant did its job years ago ("I replied in
+2019"), the human lost the reply, and the punch lands on plant life —
+the reply is in the spam folder… and the soil. "Mostly the soil."
+Against 502 live submissions, zero use "spam" or "replied", and the
+single "2019" line is an unrelated corner-sitting plant.
 
 ## Files
 
